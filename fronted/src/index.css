@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tambahkan sedikit CSS manual untuk font agar halus */
+body {
+  @apply bg-slate-50 text-slate-900;
+  font-family: 'Inter', sans-serif; /* Opsional: pakai font Inter agar modern */
+}
