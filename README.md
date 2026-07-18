@@ -192,6 +192,9 @@ npm run dev
 - **Parallel data fetching** — The frontend uses `Promise.all` to load all dropdown reference data simultaneously for a fast form experience
 - **Protected routes** — React Router guards ensure only authenticated users can access the dashboard
 
-## License
+<img width="1588" height="766" alt="image" src="https://github.com/user-attachments/assets/4d940939-081e-4f73-a3c5-7a968fa88542" />
+<img width="1597" height="770" alt="image" src="https://github.com/user-attachments/assets/4cb26fae-4296-4a8f-b1e3-67755a800942" />
+<img width="1592" height="766" alt="image" src="https://github.com/user-attachments/assets/597bd05b-3a08-4676-83e7-8df7e5b7a9f7" />
+
 
 This project was developed for GPIB Pondok Ungu church administration purposes.
